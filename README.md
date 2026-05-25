@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="MochiDev3 Banner" width="100%">
-</p>
+
 
 ---
 
