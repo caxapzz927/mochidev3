@@ -5,7 +5,7 @@
 ---
 
 ### Tech Stack
-* **Embedded:** CYD 2432S028, M5StickC Plus2
+* **Embedded:** CYD 2432S028, M5StickC Plus2, M5Stack Cardputer ADV+8GB MicroSD
 * **Software:** Python, C++ for low-level systems.
 * **OS:** Arch Linux
 
